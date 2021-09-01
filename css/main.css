@@ -9,10 +9,11 @@ body {
     height: 100%;
     /* background-image: url('../images/Venu_bg.JPG'); */
     background-color: black;
+    font-family: Helvetica !important;
 }
 
 div {
-    font-family: cursive;
+    
     color: white;
 }
 
@@ -75,7 +76,7 @@ a {
 }
 
 footer {
-    font-family: cursive;
+    font-family: Helvetica;
     position: fixed;
     left: 0;
     bottom: 0;
